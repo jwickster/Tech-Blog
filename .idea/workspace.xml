@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ff844dc-8e53-4ff3-96e0-a6b8f1666135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/connection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/api/comment-routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controllers/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/api/post-routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -42,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608406975393</updated>
-      <workItem from="1608406976683" duration="1079000" />
+      <workItem from="1608406976683" duration="1234000" />
     </task>
     <servers />
   </component>
